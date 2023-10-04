@@ -27,7 +27,7 @@
 		"eslint-plugin-react": "latest",
 		"gitmoji-cli": "^3.2.12",
 		"husky": "^6.0.0",
-		"postcss": "^8.2.10",
+		"postcss": "^8.4.31",
 		"prettier": "^2.2.1",
 		"prettier-plugin-jsdoc": "^0.2.12",
 		"tailwindcss": "^2.1.1",
